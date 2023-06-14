@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+table{
+    border-radius: 5px;
+}
+
+thead{ 
+    background-color: #FFEFD6;
+}
+td{
+    padding:10px;
+    font-size: 11px;
+}
+p{
+    font-size: 10px;
+}
+.font-white-defualt{
+    color: white;
+}
